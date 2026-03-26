@@ -1,0 +1,8 @@
+package com.example.parking.model;
+
+public enum ReservationStatus {
+    CONFIRMED,
+    CANCELLED,
+    EXPIRED
+}
+
